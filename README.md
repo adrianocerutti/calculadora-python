@@ -1,2 +1,3 @@
-# calculadora-python
-Meu primeiro projeto em Python
+# Calculadora Python
+
+Meu primeiro projeto em linguagem Python, uma calculadora simples, sem interface gráfica.
